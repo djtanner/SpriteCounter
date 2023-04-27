@@ -8,7 +8,12 @@ This is a Python Script to create a jpg of your spritesheet with numbering for e
 
 To run the script, you will provide 3 command line arguments : the original filename, the sprite width, and the sprite height.
 
-For example:
+> For example:
 python3 sprite_counter.py /path/to/original/image.png 32 32
 
 The resulting numbered file "output.jpg" will be saved in the same directory that you are running the script from.
+
+
+
+
+*Spritesheet sample image above is from : https://merchant-shade.itch.io/16x16-puny-characters*
